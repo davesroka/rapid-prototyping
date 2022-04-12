@@ -1,18 +1,19 @@
 {
-  "widgets": [
+  "tanks": [
     {
       "id": 0,
-      "name": "Widget 1"
+      "name": "Tank 1"
     },
     {
       "id": 1,
-      "name": "Widget 2"
+      "name": "Tank 2"
     },
     {
-      "id": 2
+      "id": 2,
+      "name": "Tank 3"
     },
     {
-      "name": "New Widget",
+      "name": "Tank 4",
       "id": 3
     }
   ]

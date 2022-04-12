@@ -1,11 +1,11 @@
 module.exports = () => {
-    let widgets = [];
-    for (let i = 0; i < 100; i++) {
-        widgets.push({
+    let tanks = [];
+    for (let i = 0; i < 4; i++) {
+        tanks.push({
             id: i,
-            name: `Widget ${i}`,
+            name: `Tank ${i}`,
         })
     }
 
-    return {widgets};
+    return {tanks};
 }
