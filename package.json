@@ -1,0 +1,8 @@
+{
+  "name": "rapid-prototyping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:davesroka/rapid-prototyping.git",
+  "author": "Dave Sroka <dave@robotfactorial.com>",
+  "license": "MIT"
+}
