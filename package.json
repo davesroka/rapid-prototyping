@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:davesroka/rapid-prototyping.git",
   "author": "Dave Sroka <dave@robotfactorial.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
 }
