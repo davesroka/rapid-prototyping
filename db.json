@@ -3,6 +3,17 @@
     {
       "id": 0,
       "name": "Widget 1"
+    },
+    {
+      "id": 1,
+      "name": "Widget 2"
+    },
+    {
+      "id": 2
+    },
+    {
+      "name": "New Widget",
+      "id": 3
     }
   ]
 }
