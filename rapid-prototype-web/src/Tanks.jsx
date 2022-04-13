@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import { emptyTank, fillTank, getTanks, heatTank } from "./api.service";
 
 const Tank = ({ tank, fill, empty, heat }) => (
-  <div className="panel is-success">
+  <div className="panel is-success column">
     <header className="panel-heading">
       <p>{tank.name}</p>
     </header>
