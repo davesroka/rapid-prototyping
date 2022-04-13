@@ -4,6 +4,8 @@ module.exports = () => {
         tanks.push({
             id: i,
             name: `Tank ${i}`,
+            amount: 100,
+            temp: 78
         })
     }
 
